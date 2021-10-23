@@ -1,4 +1,4 @@
 ---
 layout: default
 ---
-{% include '01-file.md' %}
+{% include file.md %}

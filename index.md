@@ -1,5 +1,3 @@
 ---
-title: Index.md Title
+title: Best Examples
 ---
-
-# Cabera de Index.md
